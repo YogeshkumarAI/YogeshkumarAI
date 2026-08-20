@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20There,%20I'm%20Yogesh%20%F0%9F%91%8B&fontSize=48&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="profile_photo_snake_border.svg" width="220" alt="profile photo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yogesh&fontSize=55&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;C+%7C+C%2B%2B+%7C+Python+Developer;Learning+Pandas+%7C+NumPy+%7C+Jupyter;Always+Curious%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Science+%2F+ML+Enthusiast+%F0%9F%A4%96;C+%7C+C%2B%2B+%7C+Python+Developer;Learning+Pandas+%7C+NumPy+%7C+Jupyter;Practicing+DSA+on+LeetCode" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=YogeshkumarAI&label=Profile%20Views&color=39FF14&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
-<a href="https://www.linkedin.com/in/yogesh-singh-097572381/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Singh-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117"/>
+<a href="https://www.linkedin.com/in/yogesh-singh-097572381/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Singh-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117" alt="LinkedIn"/>
 </a>
-<a href="https://leetcode.com/u/Yogesh_singh007/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Yogesh__singh007-39FF14?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117"/>
+<a href="https://github.com/YogeshkumarAI">
+  <img src="https://img.shields.io/badge/GitHub-YogeshkumarAI-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="GitHub"/>
 </a>
-<a href="mailto:yogeshsingh4088@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-yogeshsingh4088-39FF14?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117"/>
+<a href="https://leetcode.com/u/Yogesh_singh007/">
+  <img src="https://img.shields.io/badge/LeetCode-Yogesh__singh007-39FF14?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" alt="LeetCode"/>
 </a>
 
 </div>
@@ -27,18 +25,17 @@
 
 ## ⚡ About Me
 
-```yaml
+```
 whoami: Yogesh
-role: Data Science & Machine Learning Enthusiast
-comfortable_with: [C, C++, Python, HTML, CSS]
-learning: [Pandas, NumPy, Jupyter]
-practicing_on: LeetCode
+role: IT Student | Data Science & ML Enthusiast
+focus: [C, C++, Python, HTML, CSS]
 currently:
-  - 🌱  Building strong fundamentals in Data Science & ML
-  - 🧩  Solving problems consistently on LeetCode
-  - 📊  Exploring the DS toolkit hands-on
+  - 📊  Building foundations in Data Science & Machine Learning
+  - 🐼  Learning the DS toolkit — Pandas, NumPy, Jupyter
+  - 🧩  Practicing problem solving on LeetCode
+  - 🌱  Always exploring new tools and technologies to grow my skill set
 goal: "Fundamentals → Projects → Internships"
-fun_fact: "Always exploring new tools before I'm 'ready' for them."
+fun_fact: "I don't just learn a language, I break it first."
 ```
 
 <br/>
@@ -54,31 +51,46 @@ fun_fact: "Always exploring new tools before I'm 'ready' for them."
 <img src="https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=black&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/HTML5-FF00FF?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/CSS3-39FF14?style=for-the-badge&logo=css3&logoColor=black&labelColor=0d1117"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Pandas-39FF14?style=for-the-badge&logo=pandas&logoColor=black&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/NumPy-FF00FF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Jupyter-39FF14?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Git-FF00FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/VS%20Code-FF00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Pandas-FF00FF?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/NumPy-39FF14?style=for-the-badge&logo=numpy&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Jupyter-FF00FF?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
 <br/>
 
-## 📌 Projects Status
+## 🚀 Projects Status
 
-> Live tracker — I update this myself as I build and learn.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Status | Notes |
-|---|---|---|
-| _Project Name 1_ | 🟡 In Progress | What you're currently working on |
-| _Project Name 2_ | 🔴 Planned | What's next on your list |
-| _Project Name 3_ | 🟢 Completed | A short note on what it does |
+### 🟡 Project Name 1
+*One-line description of what it does*
 
-<sub>💡 Tip: update the emoji (🟢 done / 🟡 in progress / 🔴 planned) and notes as you go.</sub>
+`Tech` `Stack` `Here`
+
+- What you're currently building
+- Key feature or milestone
+- 🎯 Target / next step
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 Project Name 2
+*One-line description of what it does*
+
+`Tech` `Stack` `Here`
+
+- What's planned next
+- Key feature or milestone
+- 🎯 Target / next step
+
+</td>
+</tr>
+</table>
+
+<sub>💡 Tip: replace these two cards with your real project names, tech stack, and progress as you build.</sub>
 
 <br/>
 
@@ -96,7 +108,7 @@ fun_fact: "Always exploring new tools before I'm 'ready' for them."
 
 <img src="https://github-profile-trophy.vercel.app/?username=YogeshkumarAI&theme=algolia&no-frame=true&row=1&column=7&margin-w=10" />
 
-<sub>⚠️ Agar trophy card broken dikhe — ye free shared Vercel instance overload hone ki wajah se hota hai, tumhari file ki galti nahi. Ek minute mein hard-refresh karo, ya neeche self-hosting note dekho permanent fix ke liye.</sub>
+<sub>⚠️ If the trophy card above shows broken — the free shared Vercel instance is just overloaded, it's not your file. Hard-refresh in a minute, or see the self-hosting note at the bottom for a permanent fix.</sub>
 
 </div>
 
@@ -105,8 +117,10 @@ fun_fact: "Always exploring new tools before I'm 'ready' for them."
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YogeshkumarAI/YogeshkumarAI/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/YogeshkumarAI/YogeshkumarAI/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
+
+> ⚙️ Snake needs a one-time GitHub Actions setup — see note at the bottom.
 
 <br/>
 
@@ -122,25 +136,58 @@ fun_fact: "Always exploring new tools before I'm 'ready' for them."
 =========================================================
 SETUP NOTES (delete this comment block once done):
 
-1. Repo naam exactly "YogeshkumarAI" hona chahiye (same as username) —
-   GitHub uski README automatically profile page par dikhata hai.
+1. Create a repo named exactly "YogeshkumarAI" (same as your username) —
+   GitHub auto-shows its README on your profile page.
 
-2. profile_photo_snake_border.svg ko repo mein UPLOAD karo (drag-and-drop se,
-   copy-paste NAHI) — warna file corrupt/1-byte ban jaati hai aur "Invalid
-   image source" error deti hai.
+2. Profile views counter (komarev) self-initializes on first load — no
+   setup needed, just make sure the profile is public (see #4).
 
-3. Snake animation ke liye .github/workflows/snake.yml file chahiye
-   (already provide kiya gaya hai) — Actions tab se ek baar manually
-   "Run workflow" karo, phir automatically daily chalega.
+3. Snake animation (REQUIRED one-time setup):
+   - In your YogeshkumarAI/YogeshkumarAI repo, create
+     .github/workflows/snake.yml with:
+
+     name: generate snake animation
+     on:
+       schedule:
+         - cron: "0 */12 * * *"
+       workflow_dispatch: {}
+       push:
+         branches: [ main ]
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         permissions:
+           contents: write
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: YogeshkumarAI
+               outputs: |
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+   - Run the workflow once manually (Actions tab > Run workflow),
+     then the snake SVG link above will render.
 
 4. Profile MUST be public: Settings > Public profile > Contributions &
-   Activity > "Make profile private and hide activity" UNCHECK karke
-   "Update preferences" dabao — warna stats/streak 0 dikhenge recruiters ko.
+   Activity > uncheck "Make profile private and hide activity" >
+   click "Update preferences" — otherwise stats/streak show 0 to recruiters.
 
-5. Trophy card agar lambe time tak broken rahe (sirf ek minute nahi):
-   shared github-profile-trophy.vercel.app instance overload ho sakta hai.
-   Permanent fix: https://github.com/ryo-ma/github-profile-trophy ko fork
-   karke apna khud ka Vercel deploy karo, phir is README ke trophy URL
-   mein apna naya *.vercel.app domain daal do.
+5. All badges (stats, streak, trophy) are live services — they'll just
+   work once this README is on your profile repo, no setup needed.
+
+6. If the trophy card stays broken for a long time (not just a minute):
+   the public github-profile-trophy.vercel.app demo instance gets
+   overloaded from shared traffic across all GitHub users.
+   Permanent fix = deploy your own free copy on Vercel:
+     - fork https://github.com/ryo-ma/github-profile-trophy and
+       click its "Deploy to Vercel" button, then swap the domain in this
+       README's trophy URL to your own *.vercel.app domain.
+   This takes ~2 minutes and makes the card load instantly and reliably.
 =========================================================
 -->
