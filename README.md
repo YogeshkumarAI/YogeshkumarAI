@@ -102,7 +102,7 @@ fun_fact: "I don't just learn a language, I break it first."
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshkumarAI&theme=nightowl&hide_border=true&background=0d1117&ring=39FF14&fire=FF00FF&currStreakLabel=39FF14" />
+<img src="https://streak-stats.demolab.com/?user=YogeshkumarAI&theme=nightowl&hide_border=true&background=0d1117&ring=39FF14&fire=FF00FF&currStreakLabel=39FF14" />
 
 <br/><br/>
 
